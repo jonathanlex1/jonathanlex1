@@ -15,7 +15,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jonathanlex1&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanlex1&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+💬 Let’s dive into AI/ML together—explore machine learning algorithms, share insights, and collaborate on exciting tech projects !
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
