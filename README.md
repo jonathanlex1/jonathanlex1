@@ -1,4 +1,4 @@
-# Hello I'm Jonathan Lexi 
+# Hello, I'm Jonathan Lexi 
 
 - 📧 Email: jonatahnlexi62@gmail.com
 - 🔗 LinkedIn: jonathanlexi
