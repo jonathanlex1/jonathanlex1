@@ -1,6 +1,6 @@
 # Hello, I'm Jonathan Lexi 
 
-- 📧 Email: jonatahnlexi62@gmail.com
+- 📧 Email: jonatahnlexi39@gmail.com
 - 🔗 LinkedIn: [jonathanlexi](https://www.linkedin.com/in/jonathanlexi/)
 - 👨‍💻 GitHub: [jonathanlex1](https://github.com/jonathanlex1)
 
